@@ -65,6 +65,7 @@
 		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
 	</a>
 
+<br />
 
   <h1>
     React 前端工程师学习路径
@@ -77,7 +78,6 @@
 ## 目录 <!-- omit in toc -->
 
 - [入门](#%e5%85%a5%e9%97%a8)
-  - [HTML 基础](#html-%e5%9f%ba%e7%a1%80)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9)
     - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92)
   - [CSS 基础](#css-%e5%9f%ba%e7%a1%80)
@@ -144,7 +144,18 @@
 
 <a name="RGc20"></a>
 
-### HTML 基础
+<div align="center">
+<a href="https://github.com/webpack-contrib/html-loader"><img width="100" height="100" src="https://worldvectorlogo.com/logos/html5.svg"></a>
+
+<br />
+<br />
+
+<a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+</a>
+
+<h3>HTML 基础</h3> 
+</div>
 
 <a name="qnpZa"></a>
 
