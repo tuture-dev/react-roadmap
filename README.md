@@ -1,6 +1,3 @@
----
-githubCompatibility: true
----
 <div align="center">
 	<a href="https://tuture.co/roadmaps">
 		<img width="200" height="200" src="./assets/images/React.svg" />
