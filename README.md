@@ -43,6 +43,27 @@
   <a href="https://tuture.co/tags/React/">
 		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
 	</a>
+  <a href="https://tuture.co/tags/Webpack/">
+		<img src="https://img.shields.io/badge/Webpack-3-green">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/Babel-4-yellow">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+	</a>
+  <a href="https://tuture.co/tags/Webpack/">
+		<img src="https://img.shields.io/badge/Webpack-3-green">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/Babel-4-yellow">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
+	</a>
 
 
   <h1>
