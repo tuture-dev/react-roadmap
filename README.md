@@ -17,7 +17,7 @@
 		<img src="https://img.shields.io/badge/Babel-4-yellow">
 	</a>
   <a href="https://tuture.co/tags/React/">
-		<img src="https://**img**.shields.io/badge/HTML-5-red">
+		<img src="https://img.shields.io/badge/HTML-5-red">
 	</a>
   <a href="https://tuture.co/tags/React/">
 		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
