@@ -1,10 +1,19 @@
-# React 前端工程师学习路线
+<div align="center">
+	<a href="https://tuture.co/roadmaps">
+		<img width="200" height="200" src="./assets/images/React.svg" />
+	</a>
 
-![react logo](./assets/images/React.svg)
+  <h1>
+    React 前端工程师学习路径
+  </h1>
+  <p>
+    从你敲下第一行 HTML 代码开始，到了解、学习、掌握最前沿的 React Web 前端开发所必须技能的学习路线及对应的实战教程。
+  </p>
+</div>
 
-> 从你敲下第一行 HTML 代码开始，到了解、学习、掌握最前沿的 React Web 前端开发所必须技能的学习路线。
 
-[TOC]
+
+
 
 <a name="nkCtA"></a>
 
