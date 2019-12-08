@@ -137,8 +137,10 @@
 
 ## 入门
 
+<br />
+
 <div align="center">
-<a href="https://github.com/webpack-contrib/html-loader"><img width="100" height="100" src="./assets/images/html-5.svg"></a>
+<img width="100" height="100" src="./assets/images/html-5.svg">
 
 <br />
 <br />
@@ -160,7 +162,7 @@
 <br />
 
 <div align="center">
-<a href="https://tuture.co/tags/CSS/"><img width="100" height="100" src="./assets/images/css-3.svg"></a>
+<img width="100" height="100" src="./assets/images/css-3.svg">
 
 <br />
 <br />
@@ -182,7 +184,7 @@
 <br />
 
 <div align="center">
-<a href="https://tuture.co/tags/CSS/"><img width="100" height="100" src="./assets/images/javascript.svg"></a>
+<img width="100" height="100" src="./assets/images/javascript.svg">
 
 <br />
 <br />
