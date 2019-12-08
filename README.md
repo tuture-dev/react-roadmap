@@ -1,37 +1,128 @@
+---
+githubCompatibility: true
+---
 <div align="center">
 	<a href="https://tuture.co/roadmaps">
 		<img width="200" height="200" src="./assets/images/React.svg" />
 	</a>
 
+  <br />
+  <br />
+  <br />
+
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/React-14-brightgreen">
+	</a>
+  <a href="https://tuture.co/tags/Webpack/">
+		<img src="https://img.shields.io/badge/Webpack-3-green">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/Babel-4-yellow">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://**img**.shields.io/badge/HTML-5-red">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
+	</a>
+  <a href="https://tuture.co/tags/Webpack/">
+		<img src="https://img.shields.io/badge/Webpack-3-green">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/Babel-4-yellow">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+	</a>
+  <a href="https://tuture.co/tags/Webpack/">
+		<img src="https://img.shields.io/badge/Webpack-3-green">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/Babel-4-yellow">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+	</a>
+  <a href="https://tuture.co/tags/React/">
+		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
+	</a>
+
+
   <h1>
     React 前端工程师学习路径
   </h1>
   <p>
-    从你敲下第一行 HTML 代码开始，到了解、学习、掌握最前沿的 React Web 前端开发所必须技能的学习路线及对应的实战教程。
+    从你敲下第一行 HTML 代码开始，到了解、学习、并掌握最前沿的 React Web 前端开发所必须技能的学习路线及对应的实战教程。
   </p>
 </div>
 
+## 目录 <!-- omit in toc -->
 
+- [入门](#%e5%85%a5%e9%97%a8)
+  - [HTML 基础](#html-%e5%9f%ba%e7%a1%80)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92)
+  - [CSS 基础](#css-%e5%9f%ba%e7%a1%80)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-1)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-1)
+  - [JavaScript 基础](#javascript-%e5%9f%ba%e7%a1%80)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-2)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-2)
+  - [Node.js 环境搭建](#nodejs-%e7%8e%af%e5%a2%83%e6%90%ad%e5%bb%ba)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-3)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-3)
+    - [参考内容](#%e5%8f%82%e8%80%83%e5%86%85%e5%ae%b9)
+  - [React](#react)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-4)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-4)
+  - [React Router](#react-router)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-5)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-5)
+- [进阶](#%e8%bf%9b%e9%98%b6)
+  - [HTTP](#http)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-6)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-6)
+  - [Redux](#redux)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-7)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-7)
+  - [小程序开发](#%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%bc%80%e5%8f%91)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-8)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-8)
+  - [移动应用开发](#%e7%a7%bb%e5%8a%a8%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-9)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-9)
+  - [桌面端应用开发](#%e6%a1%8c%e9%9d%a2%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-10)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-10)
+  - [IoT 端应用开发](#iot-%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-11)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-11)
+  - [VR、AR 应用开发](#vrar-%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-12)
+    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-12)
+- [工具](#%e5%b7%a5%e5%85%b7)
+  - [ESLint](#eslint)
+  - [Prettier](#prettier)
+  - [Babel](#babel)
+  - [Webpack](#webpack)
+  - [StyleLint](#stylelint)
+- [前沿概念](#%e5%89%8d%e6%b2%bf%e6%a6%82%e5%bf%b5)
+  - [组件库](#%e7%bb%84%e4%bb%b6%e5%ba%93)
+  - [TypeScript](#typescript)
+  - [服务端渲染](#%e6%9c%8d%e5%8a%a1%e7%ab%af%e6%b8%b2%e6%9f%93)
+  - [微前端](#%e5%be%ae%e5%89%8d%e7%ab%af)
+  - [测试](#%e6%b5%8b%e8%af%95)
+  - [部署](#%e9%83%a8%e7%bd%b2)
+- [样式](#%e6%a0%b7%e5%bc%8f)
+  - [响应式](#%e5%93%8d%e5%ba%94%e5%bc%8f)
+  - [CSS Modules](#css-modules)
+  - [CSS in JS](#css-in-js)
 
 
 
 <a name="nkCtA"></a>
 
-路线图是根据社区贡献者的共同改进所得，力求贴近时代前沿技术，以如下方式组织：
-
-- 技术名称
-- 技术学习涵盖的知识点
-- 技术对应的学习教程以及对应包含上面提到的1到多个知识点
-- 撰写对应教程所参考的资源
-- 参与贡献的用户
-
-路线自顶向下涉及到的内容难度逐渐增加，但路线对应知识点和教程的设计却充分考虑到了不同背景的学习者需求：
-
-- 作为初学者，你可以跟着路线一步一步学习，直到完成所有内容。
-- 作为有一定基础的学习者，你可以挑选其中你感兴趣的技术进行学习，因为路线往后的教程内容所涉及的代码不会依赖路线更前的教程，所以你无需担心可能存在的依赖关系。
-- 甚至是单纯为了解决某个 React 方向上的难题的学习者，你也可以从路线中获取到对应的帮助。
-
-## 1入门
+## 入门
 
 <a name="RGc20"></a>
 
