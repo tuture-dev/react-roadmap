@@ -78,23 +78,26 @@
 ## 目录 <!-- omit in toc -->
 
 - [入门](#%e5%85%a5%e9%97%a8)
-  - [HTML](#html)
+  - [Web](#web)
     - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90)
-  - [CSS](#css)
+  - [HTML](#html)
     - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-1)
-  - [JavaScript](#javascript)
+  - [CSS](#css)
     - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-2)
+  - [JavaScript](#javascript)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-3)
   - [Node.js](#nodejs)
     - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9)
     - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b)
-    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-3)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-4)
   - [React](#react)
     - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-1)
     - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-1)
-    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-4)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-5)
   - [React Router](#react-router)
     - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-2)
-    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90)
+    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-2)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-6)
   - [React Router](#react-router-1)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9)
     - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92)
@@ -143,6 +146,34 @@
 <br />
 
 <div align="center">
+<img width="100" height="100" src="./assets/images/web.svg">
+
+<br />
+<br />
+
+<a href="https://tuture.co/tags/HTML/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+</a>
+
+### Web
+
+</div>
+
+> 我们平时使用手机或者电脑浏览的网页，如你经常使用的百度主页，它是一个网页，你通过百度的输入框
+> 输入内容，然后点击搜索，出现的搜索内容又是另外一个网页。
+
+#### 📔参考资源
+
+- 🛠[MDN 上的 Web 入门部分 -- Web 的概述](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- 🛠[MDN 上的 Web 入门部分 -- 您的网站会是什么样的？](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+- 🛠[MDN 上的 Web 入门部分 -- 万维网是如何运作的？](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- 🛠[MDN 上的 Web 入门部分 -- 安装基本软件](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
+
+---
+
+<br />
+
+<div align="center">
 <img width="100" height="100" src="./assets/images/html-5.svg">
 
 <br />
@@ -160,7 +191,7 @@
 
 #### 📔参考资源
 
-- 🛠[MDN 上的关于 HTML 介绍以及学习教程](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+- 🛠[MDN 上的 HTML 部分的 HTML 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)
 
 ---
 
@@ -184,7 +215,7 @@
 
 #### 📔参考资源
 
-- 🛠[MDN 上关于 CSS 介绍以及学习教程](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+- 🛠[MDN 上 CSS 部分的 CSS 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 ---
 
@@ -208,7 +239,7 @@
 
 #### 📔参考资源
 
-- 🛠[MDN 上关于 JavaScript 介绍以及学习教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- 🛠[MDN 上 JavaScript 部分的 JavaScript 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 ---
 
@@ -250,6 +281,7 @@
 - 🛠[《Node.js 包教不包会》Lesson 0](https://github.com/alsotang/node-lessons/tree/master/lesson0)
 - 🛠[菜鸟教程 Node.js 安装配置](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 - 🛠[VSCode JavaScript 语言开发官方文档](https://code.visualstudio.com/docs/languages/javascript)
+- 🛠[MDN上 Express 教程之架设 Node(Express) 开发环境](https://developer.mozilla.org/zh-CN/docs/Learn/Server-side/Express_Nodejs/development_environment)
 
 ---
 
@@ -279,9 +311,9 @@
 1. JSX，ReactDOM.render，Component 和 Props，State，处理事件，条件渲染，循环和 key，表单
 
 2. React 中使用样式和静态资源，React LifeCycle Hooks，可控组件，Lifting State Up，高阶组件，Refs，静态属性检查
-   
+  
 3. Context，React Hooks
-   
+  
 4. 错误处理，性能优化，Profiler
 
 #### 💻实战教程
@@ -320,13 +352,52 @@
 
 </div>
 
-> 组件是 React 的核心功能，其拥有非常强大的声明式编程模型。React Router 是导航组件的集合，可与你的应用程序进行声明式的组合。无论你是想为你的 Web 应用程序添加书签，还是在 React Native 中进行组件化导航，React Router 都可以在 React 的任何位置渲染使用
+> 组件是 React 的核心功能，其拥有非常强大的声明式编程模型。React Router 是导航组件的集合，可与你的应用程序进行声明式的组合。无论你是想为你的 Web 应用程序添加书签，还是在 React Native 中进行组件化导航，React Router 都可以在 React 的任何位置渲染使用。
 
 #### 💡知识点
 
-#### 参考资源
+1. 路由基础（静态路由和动态路由说明），URL 参数，嵌套路由，重定向，自定义链接，404，路由的查询参数，路由配置，静态路由上下文等
 
-- 🛠[MDN 上关于 JavaScript 介绍以及学习教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+2. 服务端渲染
+
+3. 测试
+
+4. 与 Redux 整合
+
+5. 高阶内容或例子：
+   1. 路由过渡动画
+
+   2. 递归路由
+
+   3. 侧边栏路由
+
+   4. 滚动恢复
+
+   5. 代码拆分
+
+
+#### 💻实战教程
+
+✍️React Router 快速入门教程🗝 知识点：1
+
+✍️React Router 服务端渲染教程🗝 知识点：2
+
+✍️React Router 测试教程🗝 知识点：3
+
+✍️React Router 与 Redux 整合🗝 知识点：4
+
+✍️React Router 高阶内容或例子（一）🗝 知识点：5.1，5.2，5.3
+
+✍️React Router 高阶内容或例子（二）🗝 知识点：5.4，5.5
+
+#### 📔参考资源
+
+- 🛠[React Router 官方文档](https://reacttraining.com/react-router/) 🇺🇸
+- 🛠[React Router 官方文档](https://react-router.docschina.org/) 🇨🇳
+- 🛠[阮一峰的 React Router 教程](https://react-router.docschina.org/) 🇨🇳
+- 🛠[知乎上的 React Router 入门教程](https://zhuanlan.zhihu.com/p/78176856) 🇨🇳
+- 🛠[关于 React Router v4 的一切](https://juejin.im/post/5995a2506fb9a0249975a1a4) 🇨🇳
+- 🛠[简明 React Router v4 教程](https://juejin.im/post/5a7e9ee7f265da4e7832949c) 🇨🇳
 
 <br />
 
