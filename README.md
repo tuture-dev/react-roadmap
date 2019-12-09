@@ -81,45 +81,52 @@
   - [Web](#web)
     - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90)
   - [HTML](#html)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9)
     - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-1)
   - [CSS](#css)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-1)
     - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-2)
   - [JavaScript](#javascript)
-    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-3)
-  - [Node.js](#nodejs)
-    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9)
-    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b)
-    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-4)
-  - [React](#react)
-    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-1)
-    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-1)
-    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-5)
-  - [React Router](#react-router)
     - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-2)
-    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-2)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-3)
+  - [HTTP 协议](#http-%e5%8d%8f%e8%ae%ae)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-3)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-4)
+  - [RESTful](#restful)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-4)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-5)
+  - [Node.js](#nodejs)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-5)
+    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b)
     - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-6)
+  - [React](#react)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-6)
+    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-1)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-7)
+  - [React Router](#react-router)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-7)
+    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-2)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-8)
 - [进阶](#%e8%bf%9b%e9%98%b6)
-  - [HTTP](#http)
+  - [Redux](#redux)
+    - [💡知识点](#%f0%9f%92%a1%e7%9f%a5%e8%af%86%e7%82%b9-8)
+    - [💻实战教程](#%f0%9f%92%bb%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-3)
+    - [📔参考资源](#%f0%9f%93%94%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-9)
+  - [小程序开发](#%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%bc%80%e5%8f%91)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9)
     - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92)
-  - [Redux](#redux)
+  - [移动应用开发](#%e7%a7%bb%e5%8a%a8%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-1)
     - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-1)
-  - [小程序开发](#%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%bc%80%e5%8f%91)
+  - [桌面端应用开发](#%e6%a1%8c%e9%9d%a2%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-2)
     - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-2)
-  - [移动应用开发](#%e7%a7%bb%e5%8a%a8%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
+  - [IoT 端应用开发](#iot-%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-3)
     - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-3)
-  - [桌面端应用开发](#%e6%a1%8c%e9%9d%a2%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
+  - [VR、AR 应用开发](#vrar-%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-4)
     - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-4)
-  - [IoT 端应用开发](#iot-%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-5)
-    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-5)
-  - [VR、AR 应用开发](#vrar-%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-6)
-    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-6)
 - [工具](#%e5%b7%a5%e5%85%b7)
   - [ESLint](#eslint)
   - [Prettier](#prettier)
@@ -186,6 +193,15 @@
 
 > HTML（超文本标记语言——HyperText Markup Language）是构成 Web 世界的一砖一瓦。它定义了网页内容的含义和结构。除 HTML 以外的其它技术则通常用来描述一个网页的表现与展示效果（如 CSS），或功能与行为（如 JavaScript）。
 
+
+#### 💡知识点
+
+1. 学习 HTML 的基础知识
+
+2. HTML 语法
+
+3. 将页面划分为多个部分并正确构建 DOM
+
 #### 📔参考资源
 
 - 🛠[MDN 上的 HTML 部分的 HTML 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)
@@ -209,6 +225,14 @@
 </div>
 
 > 层叠样式表 (Cascading Style Sheets，缩写为 CSS），是一种 样式表 语言，用来描述 HTML 或 XML（包括如 SVG、MathML、XHTML 之类的 XML 分支语言）文档的呈现。CSS 描述了在屏幕、纸质、音频等其它媒体上的元素应该如何被渲染的问题。
+
+#### 💡知识点
+
+1. 学习 CSS 的基础知识
+
+2. Grid 布局和 Flexbox 布局
+
+3. 响应式 Web 设计和媒体查询
 
 #### 📔参考资源
 
@@ -234,9 +258,91 @@
 
 > JavaScript ( JS ) 是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web 页面的脚本语言而出名的，但是它也被用到了很多非浏览器环境中，例如 Node.js、 Apache CouchDB 和 Adobe Acrobat。JavaScript 是一种基于原型编程、多范式的动态脚本语言，并且支持面向对象、命令式和声明式（如函数式编程）风格。了解更多 JavaScript。
 
+#### 💡知识点
+
+1. 语法和基本的操作
+
+2. DOM 操作
+
+3. 变量提升，事件冒泡，原型
+
+4. AJAX（XHR）
+
+5. ECMAScript6+，学习新的特性
+
 #### 📔参考资源
 
 - 🛠[MDN 上 JavaScript 部分的 JavaScript 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+---
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/http.svg">
+
+<br />
+<br />
+
+<a href="https://tuture.co/tags/CSS/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+</a>
+
+### HTTP 协议
+
+</div>
+
+> HTTP是一种能够获取如 HTML 这样的网络资源的 protocol(通讯协议)。它是在 Web 上进行数据交换的基础，是一种 client-server 协议，也就是说，请求通常是由像浏览器这样的接受方发起的。一个完整的Web文档通常是由不同的子文档拼接而成的，像是文本、布局描述、图片、视频、脚本等等。
+
+#### 💡知识点
+
+1. HTTP 的基本性质
+
+2. HTTP 能控制什么？
+
+3. HTTP 流
+
+4. HTTP 报文
+
+5. 基于 HTTP 的 APIs
+
+#### 📔参考资源
+
+- 🛠[MDN 关于 HTTP 的概述](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Overview)
+- 🛠[阮一峰的 HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
+
+---
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/rest.svg">
+
+<br />
+<br />
+
+<a href="https://tuture.co/tags/CSS/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+</a>
+
+### RESTful
+
+</div>
+
+> RESTful 是一种网络应用程序的设计风格和开发方式，基于 HTTP，可以使用 XML 格式定义或 JSON 格式定义。RESTful 适用于移动互联网厂商作为业务使能接口的场景，实现第三方 OTT 调用移动网络资源的功能，动作类型为新增、变更、删除所调用资源。
+
+#### 💡知识点
+
+1. 名称由来
+
+2. 资源（Resources）
+
+3. 表现层（Representation）
+
+4. 状态转化（State Transfer）
+
+#### 📔参考资源
+
+- 🛠[如何给老婆解释什么是 RESTful](https://juejin.im/entry/59f5f8cbf265da4327177e08)
+- 🛠[阮一峰的 理解 RESTful 架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+- 🛠[阮一峰的 理解 RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+- 🛠[怎么用同通俗的语言解释 REST，以及 RESTful](https://www.zhihu.com/question/28557115)
 
 ---
 
@@ -309,7 +415,7 @@
 
 2. 深入理解 JSX，React 中使用样式和静态资源，React LifeCycle Hooks，可控组件，Lifting State Up，高阶组件，Refs，静态属性检查
   
-3. Context，React Hooks
+3. 请求 API，Context，React Hooks
   
 4. 高级概念
    1. 错误处理
@@ -426,43 +532,80 @@
 
 ## 进阶
 
-<a name="Kfuc3"></a>
+<div align="center">
+<img width="100" height="100" src="./assets/images/redux.svg">
 
-### HTTP
+<br />
+<br />
 
-<a name="35hVw"></a>
+<a href="https://tuture.co/tags/CSS/">
+		<img src="https://img.shields.io/badge/HTML-5-red">
+</a>
 
-#### 知识点
+### Redux
 
-1. <br />
+</div>
 
-<a name="dJqGx"></a>
+> Redux 是 JavaScript 状态容器，提供可预测化的状态管理。
+> 可以让你构建一致化的应用，运行于不同的环境（客户端、服务器、原生应用），并且易于测试。不仅于此，它还提供 超爽的开发体验，比如有一个时间旅行调试器可以编辑后实时预览。
+> Redux 除了和 React 一起用外，还支持其它界面库。 它体小精悍（只有2kB，包括依赖）。
 
-#### 教程规划
+#### 💡知识点
 
-《HTTP 快速入门教程》
+1. Redux 的介绍及与 React 的关系 
+  
+2. 三大核心概念：Store，Reducers，Action
 
-<a name="vaLZr"></a>
+3. combineRedcuers，connect
+   
+4. 容器组件，展示组件
 
-### Redux 
+5. 异步 Action，异步 Flow
 
-<a name="kE618"></a>
+6. 搭配 React Router
 
-#### 知识点
+7. 高阶概念：
+   
+   1. 中间件
 
-1. Redux 三大概念：Store，Action，Reducers
-1. 状态组合：combineRedcuers
-1. 状态与展示分离：Presentational Component & Container Component
-1. 异步 Actions 和 异步 Flow，中间件，Enhancer，与 React Router 搭配使用
-1. DVA 的使用
+   2. Enhancers
 
-<a name="4RrUO"></a>
+   3. 服务端渲染
 
-#### 教程规划
+   4. 测试
 
-《Redux 快速入门教程》-> 知识点 1,2,3<br />《Redux 进阶 教程》-> 知识点 4<br />《Redux 框架篇 --- DVA 的使用》-> 知识点 5
+#### 💻实战教程
 
-<a name="0oE3m"></a>
+✅[《Redux 快速入门教程（一）》](https://tuture.co/2019/11/28/466324a/) 🗝 知识点：1
+
+✅[《Redux 快速入门教程（二）》](https://tuture.co/2019/11/28/1fe175a/) 🗝 知识点：2
+
+✅[《Redux 快速入门教程（三）》](https://tuture.co/2019/11/28/e78884e/) 🗝 知识点：3
+
+✅[《Redux 快速入门教程（四）》](https://tuture.co/2019/11/28/7dda333/) 🗝 知识点：4
+
+✍️《Redux 进阶教程（一）》🗝 知识点：5
+
+✍️《Redux 进阶教程（二）》🗝 知识点：6
+
+✍️《Redux 进阶教程（三）》🗝 知识点：7.1, 7.2
+
+✍️《Redux 服务端渲染教程》🗝 知识点：7.3
+
+✍️《Redux 测试教程》🗝 知识点：7.4
+
+
+#### 📔参考资源
+
+- 🛠[Redux 官方文档](https://redux.js.org/)
+- 🛠[Redux 中文文档](https://www.redux.org.cn/)
+- 🛠[Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
+- 🛠[阮一峰的 Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+- 🛠[阮一峰的 Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
+- 🛠[阮一峰的 Redux 入门教程（三）：React Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+
+---
+
 
 ### 小程序开发
 
