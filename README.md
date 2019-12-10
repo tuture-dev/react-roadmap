@@ -4,68 +4,6 @@
 	</a>
 
   <br />
-  <br />
-  <br />
-
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/React-14-brightgreen">
-	</a>
-  <a href="https://tuture.co/tags/Webpack/">
-		<img src="https://img.shields.io/badge/Webpack-3-green">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/Babel-4-yellow">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
-	</a>
-  <a href="https://tuture.co/tags/Webpack/">
-		<img src="https://img.shields.io/badge/Webpack-3-green">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/Babel-4-yellow">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-	</a>
-  <a href="https://tuture.co/tags/Webpack/">
-		<img src="https://img.shields.io/badge/Webpack-3-green">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/Babel-4-yellow">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
-	</a>
-  <a href="https://tuture.co/tags/Webpack/">
-		<img src="https://img.shields.io/badge/Webpack-3-green">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/Babel-4-yellow">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-	</a>
-  <a href="https://tuture.co/tags/Webpack/">
-		<img src="https://img.shields.io/badge/Webpack-3-green">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/Babel-4-yellow">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-	</a>
-  <a href="https://tuture.co/tags/React/">
-		<img src="https://img.shields.io/badge/CSS-5-yellowgreen">
-	</a>
-
-<br />
 
   <h1>
     React 前端工程师学习路径
@@ -79,52 +17,43 @@
 
 - [入门](#%e5%85%a5%e9%97%a8)
   - [Web](#web)
-  - [HTML](#html)
-  - [CSS](#css)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9)
     - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90)
-  - [JavaScript](#javascript)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-1)
+  - [HTML](#html)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9)
     - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-1)
-  - [HTTP 协议](#http-%e5%8d%8f%e8%ae%ae)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-2)
+  - [CSS](#css)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-1)
     - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-2)
-  - [Node.js](#nodejs)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-3)
-    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b)
+  - [JavaScript](#javascript)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-2)
     - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-3)
-  - [React](#react)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-4)
-    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-1)
+  - [HTTP 协议](#http-%e5%8d%8f%e8%ae%ae)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-3)
     - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-4)
-  - [React Router](#react-router)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-5)
-    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-2)
+  - [Node.js](#nodejs)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-4)
+    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b)
     - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-5)
+  - [React](#react)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-5)
+    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-1)
+    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-6)
+  - [React Router](#react-router)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-6)
+    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-2)
+    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-7)
 - [进阶](#%e8%bf%9b%e9%98%b6)
   - [Redux](#redux)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-6)
-    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-3)
-    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-6)
-  - [小程序开发](#%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%bc%80%e5%8f%91)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-7)
-    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-4)
-    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-7)
-  - [小程序开发](#%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%bc%80%e5%8f%91-1)
+    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-3)
+    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-8)
+  - [小程序开发](#%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%bc%80%e5%8f%91)
     - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-8)
-    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92)
+    - [实战教程](#%e5%ae%9e%e6%88%98%e6%95%99%e7%a8%8b-4)
+    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-9)
   - [移动应用开发](#%e7%a7%bb%e5%8a%a8%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-9)
-    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-1)
   - [桌面端应用开发](#%e6%a1%8c%e9%9d%a2%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-10)
-    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-2)
-  - [IoT 端应用开发](#iot-%e7%ab%af%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-11)
-    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-3)
-  - [VR、AR 应用开发](#vrar-%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
-    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-12)
-    - [教程规划](#%e6%95%99%e7%a8%8b%e8%a7%84%e5%88%92-4)
+  - [VR 应用开发](#vr-%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
 - [工具](#%e5%b7%a5%e5%85%b7)
   - [ESLint](#eslint)
   - [Prettier](#prettier)
@@ -138,10 +67,6 @@
   - [微前端](#%e5%be%ae%e5%89%8d%e7%ab%af)
   - [测试](#%e6%b5%8b%e8%af%95)
   - [部署](#%e9%83%a8%e7%bd%b2)
-- [样式](#%e6%a0%b7%e5%bc%8f)
-  - [响应式](#%e5%93%8d%e5%ba%94%e5%bc%8f)
-  - [CSS Modules](#css-modules)
-  - [CSS in JS](#css-in-js)
 
 ## 入门
 
@@ -153,9 +78,6 @@
 <br />
 <br />
 
-<a href="https://tuture.co/tags/HTML/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### Web
 
@@ -164,7 +86,7 @@
 > 我们平时使用手机或者电脑浏览的网页，如你经常使用的百度主页，它是一个网页，你通过百度的输入框
 > 输入内容，然后点击搜索，出现的搜索内容又是另外一个网页。
 
-#### 参考资源 <!-- omit in toc -->
+#### 参考资源
 
 - [MDN 上的 Web 入门部分 -- Web 的概述](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [MDN 上的 Web 入门部分 -- 您的网站会是什么样的？](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
@@ -181,9 +103,6 @@
 <br />
 <br />
 
-<a href="https://tuture.co/tags/HTML/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### HTML
 
@@ -192,7 +111,7 @@
 > HTML（超文本标记语言——HyperText Markup Language）是构成 Web 世界的一砖一瓦。它定义了网页内容的含义和结构。除 HTML 以外的其它技术则通常用来描述一个网页的表现与展示效果（如 CSS），或功能与行为（如 JavaScript）。
 
 
-#### 知识点 <!-- omit in toc -->
+#### 知识点 
 
 1. 学习 HTML 的基础知识
 
@@ -200,7 +119,7 @@
 
 3. 将页面划分为多个部分并正确构建 DOM
 
-#### 参考资源 <!-- omit in toc -->
+#### 参考资源
 
 - [MDN 上的 HTML 部分的 HTML 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)
 
@@ -212,11 +131,6 @@
 <img width="100" height="100" src="./assets/images/css-3.svg" />
 
 <br />
-<br />
-
-<a href="https://tuture.co/tags/CSS/">
-	<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### CSS
 
@@ -245,10 +159,6 @@
 
 <br />
 <br />
-
-<a href="https://tuture.co/tags/CSS/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### JavaScript
 
@@ -280,11 +190,6 @@
 <img width="100" height="100" src="./assets/images/http.svg">
 
 <br />
-<br />
-
-<a href="https://tuture.co/tags/CSS/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### HTTP 协议
 
@@ -317,11 +222,6 @@
 <img width="100" height="100" src="./assets/images/nodejs.svg">
 
 <br />
-<br />
-
-<a href="https://tuture.co/tags/CSS/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### Node.js
 
@@ -361,11 +261,6 @@
 <img width="100" height="100" src="./assets/images/react-1.svg">
 
 <br />
-<br />
-
-<a href="https://tuture.co/tags/CSS/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### React
 
@@ -436,11 +331,6 @@
 <img width="100" height="100" src="./assets/images/react-router.svg">
 
 <br />
-<br />
-
-<a href="https://tuture.co/tags/CSS/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### React Router
 
@@ -501,11 +391,6 @@
 <img width="100" height="100" src="./assets/images/redux.svg">
 
 <br />
-<br />
-
-<a href="https://tuture.co/tags/CSS/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### Redux
 
@@ -577,11 +462,6 @@
 <img width="100" height="100" src="./assets/images/miniprogram.svg">
 
 <br />
-<br />
-
-<a href="https://tuture.co/tags/CSS/">
-		<img src="https://img.shields.io/badge/HTML-5-red">
-</a>
 
 ### 小程序开发
 
@@ -620,185 +500,292 @@
 
    4. 小程序编辑器介绍
 
-8. 进阶概念：
+8.  进阶概念：
 
-   1. Redux 使用
+   5. Redux 使用
 
-   2. 测试
+   6. 测试
    
-   3. 性能优化
+   7. 性能优化
 
-   4. 使用 React Hooks
+   8. 使用 React Hooks
 
-   5. 如何编译到多端？
+   9.  如何编译到多端？
 
-   6. 部署上线
+   10. 部署上线
+
+9. 使用 taro-ui 组件库来加速开发
 
 #### 实战教程
 
-✅[《使用 Taro 实现一个点餐小程序（一）》](https://tuture.co/2019/11/28/466324a/) 🗝 知识点：1
+✍️《使用 Taro 实现一个点餐小程序（一）：》 🗝 知识点：1,2,3
 
-✅[《使用 Taro 实现一个点餐小程序（二）》](https://tuture.co/2019/11/28/1fe175a/) 🗝 知识点：2
+✍️《使用 Taro 实现一个点餐小程序（二）》 🗝 知识点：4, 5, 6, 9
 
-✅[《使用 Taro 实现一个点餐小程序（三）》](https://tuture.co/2019/11/28/e78884e/) 🗝 知识点：3
+✍️《使用 Taro 实现一个点餐小程序（三）》 🗝 知识点：7.1, 7.2, 7.4
 
-✅[《使用 Taro 实现一个点餐小程序（四）》](https://tuture.co/2019/11/28/7dda333/) 🗝 知识点：4
+✍️《使用 Taro 实现一个点餐小程序（四）》🗝 知识点：7.3
 
-✍️《Redux 进阶教程（一）》🗝 知识点：5
+✍️使用 Taro 实现一个点餐小程序（五）》🗝 知识点：8.1
 
-✍️《Redux 进阶教程（二）》🗝 知识点：6
+✍️使用 Taro 实现一个点餐小程序（六）》🗝 知识点：8.5, 8.6
 
-✍️《Redux 进阶教程（三）》🗝 知识点：7.1, 7.2
+✍️使用 Taro 实现一个点餐小程序（七）》🗝 知识点：8.2
 
-✍️《Redux 服务端渲染教程》🗝 知识点：7.3
+✍️使用 Taro 实现一个点餐小程序（八）》🗝 知识点：8.3
 
-✍️《Redux 测试教程》🗝 知识点：7.4
+✍️使用 Taro 实现一个点餐小程序（九）》🗝 知识点：8.4
 
 
 #### 参考资源
 
-- [Redux 官方文档](https://redux.js.org/)
-- [Redux 中文文档](https://www.redux.org.cn/)
-- [Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
-- [阮一峰的 Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
-- [阮一峰的 Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
-- [阮一峰的 Redux 入门教程（三）：React Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+- [Taro 官网](https://taro.jd.com/)
+- [Taro 官方文档](http://taro-docs.jd.com/taro/docs/README.html)
+- [Taro 官网](https://taro.jd.com/)
+- [Taro UI 官网](https://taro-ui.jd.com/#/)
+- [多端统一开发框架 - Taro](https://aotu.io/notes/2018/06/07/Taro/)
+- [小程序框架全面评测](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
+- [Taro 1.3 震撼升级：全面支持 JSX 语法和 HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)
 
 ---
 
+<br />
 
-### 小程序开发
+<div align="center">
+<img width="100" height="100" src="./assets/images/apple.svg">
+<img width="100" height="100" src="./assets/images/android-icon.svg">
 
-#### 知识点
-
-1. Web 到小程序开发的一些配置的转变和约定，小程序路由相对于 Web 路由的区别，使用 Taro 在小程序中开发需要遵守的约定，如何使用样式和静态资源
-1. 开发工具的调试
-1. 应用的发布
-
-
-#### 教程规划
-
-《使用 React 框架 Taro 开发小程序之从入门到上线》-> 知识点 1,2,3
-
-<a name="OvFqv"></a>
+<br />
 
 ### 移动应用开发
 
-<a name="6x4wZ"></a>
+</div>
 
-#### 知识点
+> 移动应用程序开发是为移动设备开发移动应用程序的行为或过程，例如个人数字助理，企业数字助理或移动电话。这些应用程序可以在制造平台期间预先安装在手机上，或者使用服务器端或客户端处理作为Web应用程序提供，以在Web浏览器中提供“类似应用程序”的体验。
 
-1. react-native 中定义一套组件库对应到 HTML
-1. CSS-layout
-1. 开发工具的调试
-1. 应用的打包与发布上线
+> 🛠筹备中，敬请期待。
 
-<a name="QRB3E"></a>
+---
 
-#### 教程规划
+<br />
 
-《使用 React Native 开发移动 App 之从入门到上线》-> 知识点 1,2,3,4
+<div align="center">
+<img width="100" height="100" src="./assets/images/electron.svg">
 
-<a name="u0sU3"></a>
+<br />
 
 ### 桌面端应用开发
 
-<a name="J0FRv"></a>
+</div>
 
-#### 知识点
+> Electron是GitHub开发的一个开源框架。它允许使用Node.js和Chromium完成桌面GUI应用程序的开发。Electron现已被多个开源Web应用程序用于前端与后端的开发，著名项目包括GitHub的Atom和微软的Visual Studio Code。
 
-<a name="v7VW9"></a>
+> 🛠筹备中，敬请期待。
 
-#### 教程规划
+---
 
-<a name="NHdOi"></a>
+<br />
 
-### IoT 端应用开发
+<div align="center">
+<img width="100" height="100" src="./assets/images/vr.svg">
 
-<a name="Al0Ua"></a>
+<br />
 
-#### 知识点
+### VR 应用开发
 
-<a name="1yGvH"></a>
+</div>
 
-#### 教程规划
+> 虚拟现实（英语：virtual reality，缩写VR），简称虚拟技术，也称虚拟环境，是利用电脑模拟产生一个三维空间的虚拟世界，提供用户关于视觉等感官的模拟，让用户感觉仿佛身历其境，可以即时、没有限制地观察三维空间内的事物。用户进行位置移动时，电脑可以立即进行复杂的运算，将精确的三维世界影像传回产生临场感。该技术集成了电脑图形、电脑仿真、人工智能、感应、显示及网络并行处理等技术的最新发展成果，是一种由电脑技术辅助生成的高技术模拟系统。
 
-<a name="w0Fkx"></a>
-
-### VR、AR 应用开发
-
-<a name="fADKb"></a>
-
-#### 知识点
-
-<a name="R1eIv"></a>
-
-#### 教程规划
-
-<a name="h5jBS"></a>
+> 🛠筹备中，敬请期待。
 
 ## 工具
 
-<a name="xlwqK"></a>
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/eslint.svg">
+
+<br />
 
 ### ESLint
 
-<a name="d489b"></a>
+</div>
+
+> ESLint（有时发音为Easy Lint）是一种静态代码分析工具，用于识别JavaScript代码中发现的有问题的模式。 它由Nicholas C. Zakas在2013年创建。ESLint中的规则是可配置的，并且可以定义和加载自定义规则。 ESLint涵盖了代码质量和编码样式问题。 ESLint支持ECMAScript的当前标准，以及草案中用于将来标准的实验语法。 使用插件或编译器时，也可以使用JSX或TypeScript进行代码处理。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/prettier.svg">
+
+<br />
 
 ### Prettier
 
-<a name="0R1HX"></a>
+</div>
+
+> 漂亮的代码格式化器
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/babel.svg">
+
+<br />
+<br />
 
 ### Babel
 
-<a name="HneLB"></a>
+</div>
+
+> Babel ，又名 Babel.js。 是一个用于 web 开发，且自由开源的 JavaScript 编译器、转译器。
+> Babel 使软件开发者能够以偏好的编程语言或风格来写作源代码，并将其利用 Babel 翻译成 JavaScript（现今在浏览器最常用的编程语言）。
+> Babel 是一个常用来使用最新的 JavaScript 语言特性的工具。身为一个转译器、或编译器，开发者可以使用 ECMAScript 6 以上的功能，并将其转换成旧版本等效的 JavaScript 让浏览器能够去解读。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/webpack.svg">
+
+<br />
 
 ### Webpack
 
-<a name="ouD0G"></a>
+</div>
+
+> Webpack 是一个开源的前端打包工具。Webpack 提供了前端开发缺乏的模块化开发方式，将各种静态资源视为模块，并从它生成优化过的代码。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/stylelint.svg">
+
+<br />
+<br />
 
 ### StyleLint
 
-<a name="scM0q"></a>
+</div>
+
+> 强大的现代化检查器，可帮助您避免错误并在样式中强制执行约定。
+
+> 🛠筹备中，敬请期待。
 
 ## 前沿概念
 
-<a name="7IGN0"></a>
+<br />
+
+<div align="center">
+<img width="100" height="100" style="padding-right: 10px;" src="./assets/images/material-ui.svg">
+<img width="100" height="100" src="./assets/images/element.svg">
+
+<br />
 
 ### 组件库
 
-<a name="aI62x"></a>
+</div>
+
+> 流行的React UI组件库/框架的集合，可帮助您为任何Web项目或应用程序构建出色的界面。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/typescript-icon.svg">
+
+<br />
 
 ### TypeScript
 
-<a name="Elzqz"></a>
+</div>
+
+> TypeScript是一种由微软开发的自由和开源的编程语言。它是JavaScript的一个严格超集，并添加了可选的静态类型和使用看起来像基于类的面向对象编程语法操作 Prototype。C#的首席架构师以及Delphi和Turbo Pascal的创始人安德斯·海尔斯伯格参与了TypeScript的开发。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/nextjs.svg">
+
+<br />
 
 ### 服务端渲染
 
-<a name="WOxb9"></a>
+</div>
+
+> SSR服务端渲染（英语：server side render）通常来说web页面的数据渲染都是由客户端或者浏览器端来完成的，先从服务器请求，然后到页面，再通过ajax请求到页面数据，之后把相应的数据填充到template模板形成完整的页面来呈现给用户。服务端渲染把数据的ajax请求放在了服务端，然后服务端把数据填充到template模板形成完整的页面，由服务端把渲染的完整的页面吐给客户端。这样减少了一次客户端到服务端的http请求，加快了相应速度，一般用于首屏的性能优化。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/microfrontend.svg">
+
+<br />
 
 ### 微前端
 
-<a name="5r55b"></a>
+</div>
+
+> 与多个团队一起使用不同的JavaScript框架构建现代Web应用程序的技术，策略和方法。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/jest.svg">
+
+<br />
 
 ### 测试
 
-<a name="4u7BZ"></a>
+</div>
+
+> 在软件测试中， 自动化测试指的是使用独立于待测软件的其他软件来自动执行测试、比较实际结果与预期并生成测试报告这一过程。[1] 在测试流程已经确定后，测试自动化可以自动执行的一些重复但必要测试工作。也可以完成手动测试几乎不可能完成的测试[2]。对于持续交付和持续集成的开发方式而言，测试自动化是至关重要的。
+
+> 🛠筹备中，敬请期待。
+
+---
+
+<br />
+
+<div align="center">
+<img width="100" height="100" src="./assets/images/docker.svg">
+<br />
 
 ### 部署
 
-<a name="xDoFa"></a>
+</div>
 
-## 样式
+> 将网站部署到云端，可以供互联网上的其他用户访问。
 
-<a name="YEBpg"></a>
-
-### 响应式
-
-<a name="OoPi7"></a>
-
-### CSS Modules
-
-<a name="s1rJX"></a>
-
-### CSS in JS
+> 🛠筹备中，敬请期待。
