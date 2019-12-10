@@ -1,9 +1,7 @@
 <div align="center">
 	<a href="https://tuture.co/roadmaps">
-		<img width="200" height="200" src="./assets/images/React.svg" />
+		<img width="100%" src="./assets/images/Logo.svg" />
 	</a>
-
-  <br />
 
   <h1>
     React 前端工程师学习路径
