@@ -68,13 +68,13 @@
 
 ## 入门
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/web.svg">
 
-<br />
-<br />
+
+
 
 
 ### Web
@@ -93,13 +93,13 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/html-5.svg">
 
-<br />
-<br />
+
+
 
 
 ### HTML
@@ -123,12 +123,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/css-3.svg" />
 
-<br />
+
 
 ### CSS
 
@@ -150,13 +150,13 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/javascript.svg">
 
-<br />
-<br />
+
+
 
 ### JavaScript
 
@@ -182,12 +182,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/http.svg">
 
-<br />
+
 
 ### HTTP 协议
 
@@ -214,12 +214,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/nodejs.svg">
 
-<br />
+
 
 ### Node.js
 
@@ -253,12 +253,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/react-1.svg">
 
-<br />
+
 
 ### React
 
@@ -319,16 +319,16 @@
 - [React.js 小书](http://huziketang.mangojuice.top/books/react/) 🇨🇳
 - [React入门教程 – 概述和实际演练](https://www.html.cn/archives/9710) 🇨🇳
 
-<br />
+
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/react-router.svg">
 
-<br />
+
 
 ### React Router
 
@@ -381,14 +381,14 @@
 - [关于 React Router v4 的一切](https://juejin.im/post/5995a2506fb9a0249975a1a4) 🇨🇳
 - [简明 React Router v4 教程](https://juejin.im/post/5a7e9ee7f265da4e7832949c) 🇨🇳
 
-<br />
+
 
 ## 进阶
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/redux.svg">
 
-<br />
+
 
 ### Redux
 
@@ -454,12 +454,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/miniprogram.svg">
 
-<br />
+
 
 ### 小程序开发
 
@@ -547,13 +547,13 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/apple.svg">
 <img width="100" height="100" src="./assets/images/android-icon.svg">
 
-<br />
+
 
 ### 移动应用开发
 
@@ -565,12 +565,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/electron.svg">
 
-<br />
+
 
 ### 桌面端应用开发
 
@@ -582,12 +582,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/vr.svg">
 
-<br />
+
 
 ### VR 应用开发
 
@@ -599,12 +599,12 @@
 
 ## 工具
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/eslint.svg">
 
-<br />
+
 
 ### ESLint
 
@@ -616,12 +616,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/prettier.svg">
 
-<br />
+
 
 ### Prettier
 
@@ -633,13 +633,13 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/babel.svg">
 
-<br />
-<br />
+
+
 
 ### Babel
 
@@ -653,12 +653,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/webpack.svg">
 
-<br />
+
 
 ### Webpack
 
@@ -670,13 +670,13 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/stylelint.svg">
 
-<br />
-<br />
+
+
 
 ### StyleLint
 
@@ -688,13 +688,13 @@
 
 ## 前沿概念
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" style="padding-right: 10px;" src="./assets/images/material-ui.svg">
 <img width="100" height="100" src="./assets/images/element.svg">
 
-<br />
+
 
 ### 组件库
 
@@ -706,12 +706,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/typescript-icon.svg">
 
-<br />
+
 
 ### TypeScript
 
@@ -723,12 +723,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/nextjs.svg">
 
-<br />
+
 
 ### 服务端渲染
 
@@ -740,12 +740,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/microfrontend.svg">
 
-<br />
+
 
 ### 微前端
 
@@ -757,12 +757,12 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/jest.svg">
 
-<br />
+
 
 ### 测试
 
@@ -774,11 +774,11 @@
 
 ---
 
-<br />
+
 
 <div align="center">
 <img width="100" height="100" src="./assets/images/docker.svg">
-<br />
+
 
 ### 部署
 
