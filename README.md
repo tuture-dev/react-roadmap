@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://tuture.co/roadmaps">
-		<img width="100%" src="./assets/images/Logo.svg" />
+		<img style="display: inline;" width="100%" src="./assets/images/Logo.svg" />
 	</a>
 
   <h1>
@@ -71,7 +71,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/web.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/web.svg">
 
 
 
@@ -96,7 +96,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/html-5.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/html-5.svg">
 
 
 
@@ -126,7 +126,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/css-3.svg" />
+<img style="display: inline;" width="100" height="100" src="./assets/images/css-3.svg" />
 
 
 
@@ -153,7 +153,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/javascript.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/javascript.svg">
 
 
 
@@ -185,7 +185,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/http.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/http.svg">
 
 
 
@@ -217,7 +217,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/nodejs.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/nodejs.svg">
 
 
 
@@ -256,7 +256,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/react-1.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/react-1.svg">
 
 
 
@@ -326,7 +326,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/react-router.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/react-router.svg">
 
 
 
@@ -386,7 +386,7 @@
 ## 进阶
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/redux.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/redux.svg">
 
 
 
@@ -457,7 +457,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/miniprogram.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/miniprogram.svg">
 
 
 
@@ -550,8 +550,8 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/apple.svg">
-<img width="100" height="100" src="./assets/images/android-icon.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/apple.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/android-icon.svg">
 
 
 
@@ -568,7 +568,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/electron.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/electron.svg">
 
 
 
@@ -585,7 +585,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/vr.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/vr.svg">
 
 
 
@@ -602,7 +602,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/eslint.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/eslint.svg">
 
 
 
@@ -619,7 +619,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/prettier.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/prettier.svg">
 
 
 
@@ -636,7 +636,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/babel.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/babel.svg">
 
 
 
@@ -656,7 +656,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/webpack.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/webpack.svg">
 
 
 
@@ -673,7 +673,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/stylelint.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/stylelint.svg">
 
 
 
@@ -691,8 +691,8 @@
 
 
 <div align="center">
-<img width="100" height="100" style="padding-right: 10px;" src="./assets/images/material-ui.svg">
-<img width="100" height="100" src="./assets/images/element.svg">
+<img style="display: inline;" width="100" height="100" style="padding-right: 10px;" src="./assets/images/material-ui.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/element.svg">
 
 
 
@@ -709,7 +709,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/typescript-icon.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/typescript-icon.svg">
 
 
 
@@ -726,7 +726,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/nextjs.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/nextjs.svg">
 
 
 
@@ -743,7 +743,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/microfrontend.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/microfrontend.svg">
 
 
 
@@ -760,7 +760,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/jest.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/jest.svg">
 
 
 
@@ -777,7 +777,7 @@
 
 
 <div align="center">
-<img width="100" height="100" src="./assets/images/docker.svg">
+<img style="display: inline;" width="100" height="100" src="./assets/images/docker.svg">
 
 
 ### 部署
