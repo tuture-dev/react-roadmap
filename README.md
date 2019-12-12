@@ -1,13 +1,10 @@
 <div align="center" id="top">
-	<a href="https://tuture.co/roadmaps">
-		<img style="display: inline;" width="100%" src="./assets/images/Logo.svg" />
-	</a>
-
+	<img style="display: inline;" width="100%" src="./assets/images/Logo.svg" />
   <h1>
     React 前端工程师学习路径
   </h1>
   <p>
-    从你敲下第一行 HTML 代码开始，到了解、学习、并掌握最前沿的 React Web 前端开发所必须技能的学习路线及对应的实战教程。
+    React 是一个用于构建用户界面的 JavaScript 库，具有优秀的性能，并且它的声明式、组件化特性让编写代码变得简单。这条学习路径将带你熟悉前端开发的基础知识，然后深入学习 React、React Router 及 Redux 等关键组件，熟悉 ESLint、webpack 等常用工具，最后还会涉及小程序开发、跨平台移动端开发、服务器端渲染等热门话题，最终成为一名优秀的 React 前端工程师。
   </p>
 </div>
 
