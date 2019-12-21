@@ -51,8 +51,14 @@
   - [VR 应用开发](#vr-%e5%ba%94%e7%94%a8%e5%bc%80%e5%8f%91)
 - [工具](#%e5%b7%a5%e5%85%b7)
   - [ESLint](#eslint)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-9)
+    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-10)
   - [Prettier](#prettier)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-10)
+    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-11)
   - [Babel](#babel)
+    - [知识点](#%e7%9f%a5%e8%af%86%e7%82%b9-11)
+    - [参考资源](#%e5%8f%82%e8%80%83%e8%b5%84%e6%ba%90-12)
   - [Webpack](#webpack)
   - [StyleLint](#stylelint)
 - [前沿概念](#%e5%89%8d%e6%b2%bf%e6%a6%82%e5%bf%b5)
@@ -503,7 +509,20 @@
 
 > ESLint（有时发音为Easy Lint）是一种静态代码分析工具，用于识别JavaScript代码中发现的有问题的模式。 它由Nicholas C. Zakas在2013年创建。ESLint中的规则是可配置的，并且可以定义和加载自定义规则。 ESLint涵盖了代码质量和编码样式问题。 ESLint支持ECMAScript的当前标准，以及草案中用于将来标准的实验语法。 使用插件或编译器时，也可以使用JSX或TypeScript进行代码处理。
 
-<div align="center">🛠筹备中，敬请期待</div>
+#### 知识点
+
+1. ESLint 的来源、应用、如何运作、寻找合适的规则
+2. ESLint 高级配置
+3. 命令行选项
+4. 将 ESLint 集成到其它工具中，比如编辑器，构建工具等。
+5. 创建自定义规则
+
+#### 参考资源
+
+- [ESLint 中文官网](http://eslint.cn/)
+- [ESLint 超简单入门教程](https://www.jianshu.com/p/ad1e46faaea2)
+- [深入浅出 ESLint](https://juejin.im/post/5bab946cf265da0ae92a75ca)
+- [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
 
 <div align="center">
 <br/>
@@ -518,9 +537,23 @@
 ### Prettier
 </div>
 
-> 漂亮的代码格式化器。
+> 什么是 Prettier：漂亮的代码格式化器；支持很多语言；被整合进绝大多数编辑器；极少的配置。
+> 为什么要使用 Prettier：一保存代码就会自动格式化；使得整个团队的代码风格统一，减少不必要的代码 Review，节省时间和能量。
 
-<div align="center">🛠筹备中，敬请期待</div>
+
+#### 知识点
+
+1. 基本原理
+2. 与编辑器整合
+3. 与 Git Hooks 整合
+4. 命令行使用
+5. 与持续集成（CI）整合
+
+#### 参考资源
+
+- [Prettier 看这一篇就够了](https://zhuanlan.zhihu.com/p/81764012)
+- [Prettier 介绍和基本用法](https://juejin.im/post/5ae91143f265da0ba60f97ea)
+- [Prettier + ESLint 使用教程(译)](https://juejin.im/post/5d563ee551882506a87c7c2c)
 
 <div align="center">
 <br/>
@@ -539,7 +572,18 @@
 > Babel 使软件开发者能够以偏好的编程语言或风格来写作源代码，并将其利用 Babel 翻译成 JavaScript（现今在浏览器最常用的编程语言）。
 > Babel 是一个常用来使用最新的 JavaScript 语言特性的工具。身为一个转译器、或编译器，开发者可以使用 ECMAScript 6 以上的功能，并将其转换成旧版本等效的 JavaScript 让浏览器能够去解读。
 
-<div align="center">🛠筹备中，敬请期待</div>
+#### 知识点
+
+1. 基本原理
+2. 与编辑器整合
+4. 命令行使用
+5. 与 Webpack 整合
+
+#### 参考资源
+
+- [Babel 中文网](https://www.babeljs.cn/docs/usage)
+- [Babel 入门教程](http://www.ruanyifeng.com/blog/2016/01/babel.html)
+- [Babel 7 教程](https://blog.zfanw.com/babel-js/)
 
 <div align="center">
 <br/>
