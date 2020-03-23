@@ -90,7 +90,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -116,7 +115,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -141,7 +139,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -168,7 +165,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -196,7 +192,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -231,7 +226,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -262,7 +256,7 @@
 
 #### 实战教程
 
-- ✅[《React 快速入门教程》](https://tuture.co/2019/11/18/07acf61/) 🗝知识点 1
+- ✅[《一杯茶的时间，上手 React》](https://tuture.co/2019/11/18/07acf61/) 🗝知识点 1
 - ✅[《用 React 做一个井字棋小游戏（一）》](https://tuture.co/2019/11/13/175b717/) 🗝 知识点 1，以及 2 中的 React 中使用样式和静态资源, Lifting State Up
 - ✅[《用 React 做一个井字棋小游戏（二）》](https://tuture.co/2019/11/13/3697248/) 🗝 知识点 1，以及 2 中的可控组件，Lifting State Up
 - ✍️《React 进阶教程（一）》 🗝知识点 2
@@ -284,7 +278,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -357,10 +350,9 @@
 
 #### 实战教程
 
-- ✅[《Redux 快速入门教程（一）》](https://tuture.co/2019/11/28/466324a/) 🗝知识点 1
-- ✅[《Redux 快速入门教程（二）》](https://tuture.co/2019/11/28/1fe175a/) 🗝知识点 2
-- ✅[《Redux 快速入门教程（三）》](https://tuture.co/2019/11/28/e78884e/) 🗝知识点 3
-- ✅[《Redux 快速入门教程（四）》](https://tuture.co/2019/11/28/7dda333/) 🗝知识点 4
+- ✅[《Redux 快速入门教程（一）》](https://tuture.co/2019/11/28/1fe175a/) 🗝知识点 1
+- ✅[《Redux 快速入门教程（二）》](https://tuture.co/2019/11/28/d129c56/) 🗝知识点 2
+- ✅[《Redux 快速入门教程（三）》](https://tuture.co/2019/11/28/a3b94eb/) 🗝知识点 3
 - ✍️《Redux 进阶教程（一）》 🗝知识点 5
 - ✍️《Redux 进阶教程（二）》 🗝知识点 6
 - ✍️《Redux 进阶教程（三）》 🗝知识点 7.1, 7.2
@@ -380,7 +372,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -410,11 +401,11 @@
 
 #### 实战教程
 
-- ✅[《Taro 小程序开发大型实战（一）：熟悉的 React，熟悉的 Hooks》](https://tuture.co/2019/12/25/34a473b/) 🗝知识点 1,2,3
-- ✅[《Taro 小程序开发大型实战（二）：多页面跳转和 Taro UI 组件库》](https://tuture.co/2019/12/25/af69225/) 🗝知识点 4, 5
-- ✅[《Taro 小程序开发大型实战（三）：实现微信和支付宝多端登录》](https://tuture.co/2019/12/25/5e10118/) 🗝知识点 6
-- ✅[《Taro 小程序开发大型实战（四）：使用 Hooks 版的 Redux 实现应用状态管理》](https://tuture.co/2019/12/25/5e100f7/) 🗝知识点 7
-- ✅[《Taro 小程序开发大型实战（五）：尝鲜微信小程序云（上篇）》](https://tuture.co/2019/12/25/b32362b/) 🗝知识点 8
+- ✅[《Taro 小程序开发大型实战（一）：熟悉的 React，熟悉的 Hooks》](https://tuture.co/2019/12/26/34a473b/) 🗝知识点 1,2,3
+- ✅[《Taro 小程序开发大型实战（二）：多页面跳转和 Taro UI 组件库》](https://tuture.co/2019/12/29/af69225/) 🗝知识点 4, 5
+- ✅[《Taro 小程序开发大型实战（三）：实现微信和支付宝多端登录》](https://tuture.co/2020/01/06/5e10118/) 🗝知识点 6
+- ✅[《Taro 小程序开发大型实战（四）：使用 Hooks 版的 Redux 实现应用状态管理》](https://tuture.co/2020/01/15/5e100f7/) 🗝知识点 7
+- ✅[《Taro 小程序开发大型实战（五）：尝鲜微信小程序云》](https://tuture.co/2020/01/17/b32362b/) 🗝知识点 8
 - ✅[《Taro 小程序开发大型实战（七）：使用 LeanCloud 实现多端数据共享及小程序上线发布》](https://tuture.co/2020/02/19/abfd872/) 🗝知识点 9,10
 
 #### 参考资源
@@ -431,7 +422,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -449,7 +439,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -466,7 +455,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -513,7 +501,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -544,7 +531,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -574,7 +560,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 
@@ -594,7 +579,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -624,7 +608,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -641,7 +624,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -658,7 +640,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -675,7 +656,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
@@ -692,7 +672,6 @@
 <br/>
 <a href="#top">⬆️返回顶部</a>
 </div>
-
 ---
 
 <div align="center">
